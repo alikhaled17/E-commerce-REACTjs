@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "pepsi++",
+      "price": "50",
+      "count": 0,
+      "cart": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "ali",
+      "price": "5",
+      "count": 0,
+      "cart": false
+    },
+    {
+      "id": 3,
+      "name": "watr++",
+      "price": "5",
+      "count": 0,
+      "cart": false
+    },
+    {
+      "id": 4,
+      "name": "ahmed",
+      "price": "20",
+      "count": 0,
+      "cart": false
+    },
+    {
+      "id": 5,
+      "name": "ahmeda",
+      "price": "30",
+      "count": 0,
+      "cart": false
+    },
+    {
+      "id": 6,
+      "name": "ha",
+      "price": "23",
+      "count": 0,
+      "cart": false
+    }
+  ]
+}
